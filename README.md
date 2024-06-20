@@ -1,0 +1,2 @@
+# SOC_2024_GPTmastery
+SOC COURSE 
